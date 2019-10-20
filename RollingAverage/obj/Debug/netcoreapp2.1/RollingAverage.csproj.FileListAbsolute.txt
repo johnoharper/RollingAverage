@@ -1,0 +1,11 @@
+C:\Users\John Harper\Desktop\RollingAverage\RollingAverage\bin\Debug\netcoreapp2.1\RollingAverage.deps.json
+C:\Users\John Harper\Desktop\RollingAverage\RollingAverage\bin\Debug\netcoreapp2.1\RollingAverage.runtimeconfig.json
+C:\Users\John Harper\Desktop\RollingAverage\RollingAverage\bin\Debug\netcoreapp2.1\RollingAverage.runtimeconfig.dev.json
+C:\Users\John Harper\Desktop\RollingAverage\RollingAverage\bin\Debug\netcoreapp2.1\RollingAverage.dll
+C:\Users\John Harper\Desktop\RollingAverage\RollingAverage\bin\Debug\netcoreapp2.1\RollingAverage.pdb
+C:\Users\John Harper\Desktop\RollingAverage\RollingAverage\obj\Debug\netcoreapp2.1\RollingAverage.csprojAssemblyReference.cache
+C:\Users\John Harper\Desktop\RollingAverage\RollingAverage\obj\Debug\netcoreapp2.1\RollingAverage.csproj.CoreCompileInputs.cache
+C:\Users\John Harper\Desktop\RollingAverage\RollingAverage\obj\Debug\netcoreapp2.1\RollingAverage.AssemblyInfoInputs.cache
+C:\Users\John Harper\Desktop\RollingAverage\RollingAverage\obj\Debug\netcoreapp2.1\RollingAverage.AssemblyInfo.cs
+C:\Users\John Harper\Desktop\RollingAverage\RollingAverage\obj\Debug\netcoreapp2.1\RollingAverage.dll
+C:\Users\John Harper\Desktop\RollingAverage\RollingAverage\obj\Debug\netcoreapp2.1\RollingAverage.pdb
